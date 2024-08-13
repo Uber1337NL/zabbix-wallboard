@@ -4,7 +4,7 @@ $CONFIG = [
 	//===================================================================== Zabbix API credentials
 	'ZABBIX' => [
 		/* Full URL to Zabbix api. Includes api_jsonrpc.php! */
-		'URL' => 'https://zabbix.locker1.linfra.nl/api_jsonrpc.php',
+		'URL' => 'https://zabbix.domain.tld/api_jsonrpc.php',
 
 		/* User which should be used for api connection */
 		'USERNAME' => 'zbxwallboard',
